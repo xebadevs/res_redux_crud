@@ -1,8 +1,15 @@
-# CRUD with Redux 📒
+# CRUD with Redux 💻
 
 `Resource Repository`
 
-Use of:
+
+## Use of:
 - `Redux`
 - `Hooks`
 
+
+## Functions:
+- Read the cards from an internal *JSON*.
+- Create a card.
+- Edit a card.
+- Delete a card.

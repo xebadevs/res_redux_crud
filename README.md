@@ -13,3 +13,7 @@
 - Create a card.
 - Edit a card.
 - Delete a card.
+
+## Technical:
+- Save an array with *Redux*.
+- Manipulate that same array.
